@@ -5,3 +5,7 @@ Strings
 Numbers 
 - temperature
 - weight
+
+Booleans
+- freezing
+- obese 
